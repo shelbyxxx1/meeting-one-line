@@ -1,0 +1,7 @@
+submission: 01a213ad-889e-74cb-92f2-b8ef7ee9b4c6
+competition: u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c
+repo: https://github.com/shelbyxxx1/meeting-one-line
+commit: fb80e8575d53cc4c08ec8d7bf582b0707768bf0e
+receipt: 2026-11-25T17:07:49.522Z
+title: One line that ends a meeting with no decision-maker
+entry: Nobody here can approve the work, so end the meeting; this calendar invite is just a witness list.
